@@ -1,0 +1,14 @@
+{
+  "name": "new-bot",
+  "version": "1.0.0",
+  "description": "بوت ديسكورد بتشغيل دائم عبر Replit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
